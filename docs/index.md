@@ -16,3 +16,5 @@ hide:
 * Calendar Invites: [Google](https://calendar.google.com/calendar/r/eventedit/copy/NTQ1dTJkNGw4bG9pZGFkc2gxYjcyYW9samUgZXZlbnRzQDNtZGViLmNvbQ) / [iCal](https://cloud.3mdeb.com/index.php/s/4kDZpKrExqZy9fo) - click calendar of your choice to add event
 * [Dasharo OSF vPub Newsletter](https://newsletter.3mdeb.com/subscription/0_K65I7ro) - if you would like to be informed about future vPub events feel free to sign up to our newsletter
 
+If you are interested in previous events please visit our [archive](archive.md)
+
