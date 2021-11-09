@@ -1,5 +1,5 @@
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="200" src="images/dasharo-osf-vpub-fall-2021-poster.png" alt="Dasharo OSF vPub Fall 2021 poster" align="center">
+  <img width="800" src="images/dasharo-osf-vpub-fall-2021-poster.png" alt="Dasharo OSF vPub Fall 2021 poster" align="center">
   </p>
 <h1 align="center" style="margin-top: 0px;">Dasharo OSF vPub Fall 2021</h1>
 <h2 align="center" style="margin-top: 0px;">16 November 2021 20:00UTC - last man standing</h2>
