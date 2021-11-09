@@ -6,11 +6,10 @@ theme:
     logo: images/dasharo-logo.png
 extra_css:
     - stylesheets/extra.css
-google_analytics:
-    - UA-39420295-13
-    - auto
 markdown_extensions:
     - pymdownx.highlight
     - pymdownx.superfences
     - pymdownx.keys
     - attr_list
+    - meta
+plugins: []
