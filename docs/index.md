@@ -13,7 +13,7 @@ hide:
 
 * [Jitsi Conference Link](https://meet.jit.si/dasharo-osf-vpub) - please click to join Jitsi audio conference via web browser or mobile app
 * [Dasharo Workspace (Matrix)](https://matrix.to/#/#dasharo:matrix.org) - join `#dasharo-osf-vpub:matrix.org` optional Matrix channel for text chat
-* Calendar Invites: [Google](TBD) / [iCal](TBD) - click calendar of your choice to add event
+* Calendar Invites: [Google](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjZobm9ydXJuNzQ4OHM3bWszN3I1b2dwbjQgZXZlbnRzQDNtZGViLmNvbQ&tmsrc=events%403mdeb.com) / [iCal](https://cloud.3mdeb.com/index.php/s/bxWPFbg5PzkDeP2) - click calendar of your choice to add event
 * [Dasharo OSF vPub Newsletter](https://newsletter.3mdeb.com/subscription/0_K65I7ro) - if you would like to be informed about future vPub events feel free to sign up to our newsletter
 
 If you are interested in previous events please visit our [archive](archive.md)
