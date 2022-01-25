@@ -8,11 +8,11 @@ hide:
   <img width="800" src="images/dasharo-osf-vpub-winter-2022-poster.png" alt="Dasharo OSF vPub Winter 2022 poster" align="center">
   </p>
 <h1 align="center" style="margin-top: 0px;">Dasharo OSF vPub Winter 2022</h1>
-<h2 align="center" style="margin-top: 0px;">6 February 2022</h2>
+<h2 align="center" style="margin-top: 0px;">17 February 2022</h2>
 <h2 align="center" style="margin-top: 0px;">8 PM UTC - last man standing</h2>
 
 * [Jitsi Conference Link](https://meet.jit.si/dasharo-osf-vpub) - please click to join Jitsi audio conference via web browser or mobile app
-* [Matrix channel](https://matrix.to/#/#dasharo-osf-vpub:matrix.org) / `#dasharo-osf-vpub:matrix.org` - optional Matrix channel for text chat
+* [Matrix channel](https://matrix.to/#/#dasharo:matrix.org) / `#dasharo-osf-vpub:matrix.org` - optional Matrix channel for text chat
 * Calendar Invites: [Google](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjZobm9ydXJuNzQ4OHM3bWszN3I1b2dwbjQgZXZlbnRzQDNtZGViLmNvbQ&tmsrc=events%403mdeb.com) / [iCal](https://cloud.3mdeb.com/index.php/s/bxWPFbg5PzkDeP2) - click calendar of your choice to add event
 * [Dasharo OSF vPub Newsletter](https://newsletter.3mdeb.com/subscription/0_K65I7ro) - if you would like to be informed about future vPub events feel free to sign up to our newsletter
 
