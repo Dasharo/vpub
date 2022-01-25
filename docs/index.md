@@ -9,7 +9,7 @@ hide:
   </p>
 <h1 align="center" style="margin-top: 0px;">Dasharo OSF vPub Winter 2022</h1>
 <h2 align="center" style="margin-top: 0px;">17 February 2022</h2>
-<h2 align="center" style="margin-top: 0px;">8 PM UTC - last man standing</h2>
+<h2 align="center" style="margin-top: 0px;">4 PM UTC - last man standing</h2>
 
 * [Jitsi Conference Link](https://meet.jit.si/dasharo-osf-vpub) - please click to join Jitsi audio conference via web browser or mobile app
 * [Dasharo Workspace (Matrix)](https://matrix.to/#/#dasharo:matrix.org) - join `#dasharo-osf-vpub:matrix.org` optional Matrix channel for text chat
