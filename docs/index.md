@@ -11,18 +11,19 @@ hide:
 <h2 align="center" style="margin-top: 0px;">17 February 2022</h2>
 <h2 align="center" style="margin-top: 0px;">8 PM UTC - last man standing</h2>
 
-4th edition of vPub is approaching! We will be discussing lots of interesting topics with many great guests!
-Among discussed topics will be:
-- Crowdfunding of open source firmware distribution for modern platforms,
-- [OpenSecurityTraining2](https://ost2.fyi/) roadmap,
-- Recent advancements in Root of Trust technologies (MS Pluton announcements, TrenchBoot project status),
-- OSFdistribution through fwupd/LVFS,
-- [Dasharo](https://dasharo.com/) project statuses: KGPE-D16, OpenPOWER, Dell OptiPlex, PC Engines apu2, modern laptops support NovaCustom,
-- Projects posting session, we are still gathering list of projects, we will also have some structure to the vPub.</h4>
-
 * [Jitsi Conference Link](https://meet.jit.si/dasharo-osf-vpub) - please click to join Jitsi audio conference via web browser or mobile app
 * [Dasharo Workspace (Matrix)](https://matrix.to/#/#dasharo:matrix.org) - join `#dasharo-osf-vpub:matrix.org` optional Matrix channel for text chat
 * Calendar Invites: [Google](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjZobm9ydXJuNzQ4OHM3bWszN3I1b2dwbjQgZXZlbnRzQDNtZGViLmNvbQ&tmsrc=events%403mdeb.com) / [iCal](https://cloud.3mdeb.com/index.php/s/bxWPFbg5PzkDeP2) - click calendar of your choice to add event
 * [Dasharo OSF vPub Newsletter](https://newsletter.3mdeb.com/subscription/0_K65I7ro) - if you would like to be informed about future vPub events feel free to sign up to our newsletter
+
+4th edition of vPub is approaching! We will be discussing lots of interesting topics with many great guests!<br>
+Among discussed topics will be:<br>
+- Crowdfunding of open source firmware distribution for modern platforms,<br>
+- [OpenSecurityTraining2](https://ost2.fyi/) roadmap,<br>
+- Recent advancements in Root of Trust technologies (MS Pluton announcements, TrenchBoot project status),<br>
+- OSFdistribution through fwupd/LVFS,<br>
+- [Dasharo](https://dasharo.com/) project statuses: KGPE-D16, OpenPOWER, Dell OptiPlex, [PC Engines apu2](pcengines.github.io), modern laptops support NovaCustom,<br>
+- Projects posting session, we are still gathering list of projects, we will also have some structure to the vPub.
+<br>
 
 If you are interested in previous events please visit our [archive](archive.md)
