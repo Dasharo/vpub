@@ -27,9 +27,9 @@ Among discussed topics will be:<br>
 * [OpenSecurityTraining2](https://ost2.fyi/) roadmap,<br>
 * Recent advancements in Root of Trust technologies (MS Pluton announcements, TrenchBoot project status),<br>
 * Review of the open letter draft to open the Intel ACMs code<br>
-* OSF distribution through fwupd/LVFS,<br>
+* Open source firmware distribution through fwupd/LVFS,<br>
 * [Dasharo](https://dasharo.com/) project statuses: [KGPE-D16](https://docs.dasharo.com/variants/asus_kgpe_d16/releases/), [OpenPOWER](https://docs.dasharo.com/variants/talos_2/releases/), [Dell OptiPlex](https://docs.dasharo.com/variants/dell_optiplex/overview/), [PC Engines apu2](pcengines.github.io), modern laptops support [NovaCustom](https://configurelaptop.eu/coreboot-laptop/),<br>
-* Projects posting session, we are still gathering list of projects, we will also have some structure to the vPub.
+* We will apply some structure to our vPub, during first 3h we will focus on open source/hardware/ISA project presentations, each presentation will start on top of hour with 10min presentation/demo and 20min Q&A.
 <br>
 
 If you are interested in previous events please visit our [archive](archive.md).
