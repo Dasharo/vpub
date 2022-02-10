@@ -20,6 +20,7 @@ hide:
 4th edition of vPub is approaching! We will be discussing lots of interesting topics with many great guests!<br>
 
 Among discussed topics will be:<br>
+
 * Crowdfunding of open source firmware distribution for modern platforms,<br>
 * [OpenSecurityTraining2](https://ost2.fyi/) roadmap,<br>
 * Recent advancements in Root of Trust technologies (MS Pluton announcements, TrenchBoot project status),<br>
