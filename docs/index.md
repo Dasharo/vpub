@@ -24,7 +24,7 @@ If you don't have Matrix account, here is a quick guide on [how to get started w
 ### Projects demo session
 
 * **8PM UTC** - [Dennis Marttinen](https://twitter.com/twelho) will introduce us to [Racklet](https://racklet.io/) project.
-* **9PM UTC** - [Michiel Leenaars](https://nlnet.nl/people/leenaars.html) will give us short introduction to [Technology Common Trust](https://technologycommons.org/) as a vehicle for open source firmware and hardware crowdfunding.
+* **9PM UTC** - [Michiel Leenaars](https://nlnet.nl/people/leenaars.html) will give us short introduction to [Technology Commons Trust](https://technologycommons.org/) as a vehicle for open source firmware and hardware crowdfunding.
 * **10PM UTC** - [Luke Kenneth Casson Leighton](http://twitter.com/lkcl) will dive into comparative debugging for [libre-soc](https://libre-soc.org/) by deliberately tracking [microwatt](https://github.com/antonblanchard/microwatt) source and unit tests.
 * **11PM UTC** - [Daniel Maslowski](https://twitter.com/OrangeCMS) will let us know abut current status of [oreboot](https://github.com/oreboot/oreboot) project.
 * **12AM UTC** - [Felix Singer](https://twitter.com/felixsinger1) and [tonux](https://github.com/Tonux599) will explain how open source firmware community can benefit from [GSoC 2022](https://mail.coreboot.org/hyperkitty/list/coreboot@coreboot.org/thread/PGKTAPC3UEPG722JBUBZYIQQ2UZSGRNA/).
