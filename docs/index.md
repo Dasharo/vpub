@@ -41,13 +41,13 @@ If you don't have Matrix account, here is a quick guide on [how to get started w
 | **22:00 - 22:10** | [Luke Kenneth Casson Leighton](http://twitter.com/lkcl) will dive into comparative debugging for [libre-soc](https://libre-soc.org/) by deliberately tracking [microwatt](https://github.com/antonblanchard/microwatt) source and unit tests.
 | **22:10 - 22:30** | Q&A: LibreSoC and Microwatt |
 | **22:30 - 23:00** | Open Discussion |
-| **23:00 - 23:10** | [Daniel Maslowski](https://twitter.com/OrangeCMS) will let us know abut current status of [oreboot](https://github.com/oreboot/oreboot) project.
+| **23:00 - 23:10** | [Daniel Maslowski](https://twitter.com/OrangeCMS) will let us know about current status of [oreboot](https://github.com/oreboot/oreboot) project.
 | **23:10 - 23:30** | Q&A: oreboot |
 | **23:30 - 00:00** | Open Discussion |
-| **00:00 - 01:00** | Discussion with Richard Stallman |
+| **00:00 - 01:00** | Discussion with Richard Stallman about [Respect Your Freedom Certification](https://ryf.fsf.org/) |
 | **01:00 - 01:10** | [Felix Singer](https://twitter.com/felixsinger1) and [tonux](https://github.com/Tonux599) will explain how open source firmware community can benefit from [GSoC 2022](https://mail.coreboot.org/hyperkitty/list/coreboot@coreboot.org/thread/PGKTAPC3UEPG722JBUBZYIQQ2UZSGRNA/).
 | **01:10 - 01:30** | Q&A: GSoC 2022 for open source firmware |
-| **01:30 - 02:00** | Open Discussion:<br>- Crowdfunding of open source firmware distribution for modern platforms , <br>- Public review of the open letter draft to open the Intel ACMs code , <br>- Open source firmware distribution through fwupd/LVFS , <br>- [Dasharo](https://dasharo.com/) project statuses: [KGPE-D16](https://docs.dasharo.com/variants/asus_kgpe_d16/releases/) , [OpenPOWER](https://docs.dasharo.com/variants/talos_2/releases/) , [Dell OptiPlex](https://docs.dasharo.com/variants/dell_optiplex/overview/) , [PC Engines apu2](pcengines.github.io) , modern laptops support [NovaCustom](https://configurelaptop.eu/coreboot-laptop/),<br>- [OpenSecurityTraining2](https://ost2.fyi/) reward system plans and ideas,<br>- Recent advancements in Root of Trust technologies (MS Pluton announcements, TrenchBoot project status) |
+| **01:30 - last <i>haker</i standing** | Open Discussion:<br>- Crowdfunding of open source firmware distribution for modern platforms , <br>- Public review of the open letter draft to open the Intel ACMs code , <br>- Open source firmware distribution through fwupd/LVFS , <br>- [Dasharo](https://dasharo.com/) project statuses: [KGPE-D16](https://docs.dasharo.com/variants/asus_kgpe_d16/releases/) , [OpenPOWER](https://docs.dasharo.com/variants/talos_2/releases/) , [Dell OptiPlex](https://docs.dasharo.com/variants/dell_optiplex/overview/) , [PC Engines apu2](pcengines.github.io) , modern laptops support [NovaCustom](https://configurelaptop.eu/coreboot-laptop/),<br>- [OpenSecurityTraining2](https://ost2.fyi/) reward system plans and ideas,<br>- Recent advancements in Root of Trust technologies (MS Pluton announcements, TrenchBoot project status) |
 
 </center>
 
