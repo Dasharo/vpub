@@ -12,6 +12,7 @@ markdown_extensions:
     - pymdownx.keys
     - attr_list
     - meta
+    - tables
     - pymdownx.tasklist:
           custom_checkbox: true
 plugins: []
