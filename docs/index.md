@@ -62,3 +62,5 @@ or through messages on [Dasharo OSF vPub Matrix channel](https://matrix.to/#/#da
 * [Open products advertisement](products_backlog.md)
 
 If you are interested in previous events please visit our [archive](archive.md).
+
+<h3 align="center" style="margin-top: 0px;">vPub schedule</h3>
