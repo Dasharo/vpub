@@ -8,9 +8,14 @@ hide:
 
 Main value of vPub always for free-form discussion, because of that we would
 like to keep as long as possible list of potential topics that could be of
-interest for 
+interest for vPub community.
 
 ## Matrix
+
+### From Andrew
+
+- [ ] `<troll>No QR code on the image</troll>` - we should discuss that at some
+  point.
 
 ### From Thierry
 
