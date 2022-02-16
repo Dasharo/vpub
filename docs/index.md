@@ -14,7 +14,7 @@ hide:
 * [Dasharo OSF vPub Matrix room](https://matrix.to/#/#dasharo-osf-vpub:matrix.org) in [Dasharo Workspace (Matrix)](https://matrix.to/#/#dasharo:matrix.org) with embedded Jitsi conference using [Element](https://element.io/get-started).<br>
 Following configuration similar to virtual FOSDEM, we added integration of Jitsi to our Dasharo OSF vPub Matrix channel.<br>
 If you don't have Matrix account, here is a quick guide on [how to get started with Element & Matrix](https://frontpagelinux.com/tutorials/beginners-guide-how-to-get-started-with-element-matrix/) or feel free to use Jitsi directly (link below).
-* [Jitsi Conference Link](https://meet.jit.si/dasharo-osf-vpub) - please click to join Jitsi conference via web browser or mobile app
+* [Jitsi Conference Link](https://meet.jit.si/dasharo-osf-vpub) - please click to join Jitsi audio (optional video) conference via web browser or mobile app
 * [Dasharo Workspace (Matrix)](https://matrix.to/#/#dasharo:matrix.org) - join `#dasharo-osf-vpub:matrix.org` optional Matrix channel for text chat
 * Calendar Invites: [Google](https://calendar.google.com/event?action=TEMPLATE&tmeid=MjZobm9ydXJuNzQ4OHM3bWszN3I1b2dwbjQgZXZlbnRzQDNtZGViLmNvbQ&tmsrc=events%403mdeb.com) / [iCal](https://cloud.3mdeb.com/index.php/s/bxWPFbg5PzkDeP2) - click calendar of your choice to add event
 * [Dasharo OSF vPub Newsletter](https://newsletter.3mdeb.com/subscription/0_K65I7ro) - if you would like to be informed about future vPub events feel free to sign up to our newsletter
