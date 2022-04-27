@@ -60,5 +60,3 @@ or through messages on [Dasharo OSF vPub Matrix channel](https://matrix.to/#/#da
 * [Projects demo session backlog](projects_backlog.md)
 * [Free form discussion topics backlog](topics_backlog.md)
 * [Open products advertisement](products_backlog.md)
-
-If you are interested in previous events please visit our [archive](archive.md).
