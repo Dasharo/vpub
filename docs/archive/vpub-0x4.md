@@ -5,7 +5,7 @@ hide:
 --- 
 
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="800" src="images/vpub-0x4-poster.png" alt="Dasharo OSF vPub Winter 2022 poster" align="center">
+  <img width="800" src="docs/archive/images/vpub-0x4-poster.jpeg" alt="Dasharo OSF vPub Winter 2022 poster" align="center">
   </p>
 <br>
 <h1 align="center" style="margin-top: 0px;">Dasharo OSF vPub Winter 2022</h1>
