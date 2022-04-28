@@ -56,7 +56,3 @@ If you don't have Matrix account, here is a quick guide on [how to get started w
 At any time feel free to send us suggestions to following sections in form of
 [pull requests](https://github.com/Dasharo/vpub/pulls)/[issues](https://github.com/Dasharo/vpub/issues)
 or through messages on [Dasharo OSF vPub Matrix channel](https://matrix.to/#/#dasharo-osf-vpub:matrix.org).
-
-* [Projects demo session backlog](projects_backlog.md)
-* [Free form discussion topics backlog](topics_backlog.md)
-* [Open products advertisement](products_backlog.md)
