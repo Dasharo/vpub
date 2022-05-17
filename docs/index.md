@@ -11,7 +11,7 @@ hide:
 <h1 align="center" style="margin-top: 0px;">Dasharo OSF vPub Spring 2022</h1>
 <h2 align="center" style="margin-top: 0px;">26 May 2022</h2>
 <h2 align="center" style="margin-top: 0px;">More info coming soon</h2>
-<h3 align="center" style="margin-top: 0px;">Calendar Invites: <a href="https://cloud.3mdeb.com/index.php/s/bxWPFbg5PzkDeP2">iCal</a> / <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MjZobm9ydXJuNzQ4OHM3bWszN3I1b2dwbjQgZXZlbnRzQDNtZGViLmNvbQ&tmsrc=events%403mdeb.com">Google</a></h3>
+<h3 align="center" style="margin-top: 0px;">Calendar Invites: <a href="https://cloud.3mdeb.com/index.php/s/C8QKtfrDd49dyMa">iCal</a> / <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=M3Z0OHZrMDRvNmpubTdxZXRkbWRjYzNsZWggZXZlbnRzQDNtZGViLmNvbQ&tmsrc=events%403mdeb.com">Google</a></h3>
 <br>
 
 * [Dasharo OSF vPub Matrix room](https://matrix.to/#/#dasharo-osf-vpub:matrix.org) in [Dasharo Workspace (Matrix)](https://matrix.to/#/#dasharo:matrix.org) with embedded Jitsi conference using [Element](https://element.io/get-started).<br>
