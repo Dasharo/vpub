@@ -23,7 +23,7 @@ If you don't have Matrix account, here is a quick guide on [how to get started w
 
 <br>
 <h2 align="center" style="margin-top: 0px;">5th edition of vPub is approaching! We will be discussing lots of interesting topics with many great guests!</h2>
-  <h3 align="center" style="margin-top: 0px;">vPub schedule coming soon</h3>
+<h3 align="center" style="margin-top: 0px;">vPub schedule coming soon</h3>
 
 
 ### On-going call for participation
