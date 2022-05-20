@@ -33,7 +33,7 @@ hide:
 | ----------- | ------------------------------------ |
 | **15:30 - 15:50** | Channel open for testing |
 | **15:50 - 16:00** | Welcome to vPub |
-| **16:00 - 16:10** | [Daniel Maslowski](https://twitter.com/OrangeCMS) will introduce us to [RustSBI](hhttps://github.com/rustsbi/rustsbi) project
+| **16:00 - 16:10** | [Daniel Maslowski](https://twitter.com/OrangeCMS) will introduce us to [RustSBI](https://github.com/rustsbi/rustsbi) project
 | **16:10 - 16:30** | Q&A: RustSBI |
 | **16:30 - 17:00** | Open Discussion |
 | **17:00 - 17:10** | [Michał Żygowski](https://twitter.com/_miczyg_) will present Qubes OS and MSI PRO Z690-A DDR4 - a reasonably secure OS on a reasonably new desktop
