@@ -36,16 +36,12 @@ hide:
 | **16:00 - 16:10** | [Daniel Maslowski](https://twitter.com/OrangeCMS) will introduce us to [RustSBI](hhttps://github.com/rustsbi/rustsbi) project
 | **16:10 - 16:30** | Q&A: RustSBI |
 | **16:30 - 17:00** | Open Discussion |
-| **17:00 - 17:10** | [Michał Żygowski](https://twitter.com/_miczyg_) will present Qubes OS and MSI PRO Z690-A DDR4 - a reasonably secure OS on a reasonably new desktop
+| **17:00 - 17:10** | [Michał Żygowski](https://twitter.com/_miczyg_) will present Qubes OS and MSI PRO Z690-A DDR4 - a reasonably secure OS on a reasonably new desktop |
 | **17:10 - 17:30** | Q&A: Qubes OS and MSI PRO Z690-A DDR4 |
 | **17:30 - 18:00** | Open Discussion |
-| **18:00 - 18:10** | oreboot update by [Daniel Maslowski](https://twitter.com/OrangeCMS) |
-| **18:10 - 18:30** | Q&A: oreboot |
-| **18:30 - 19:00** | Open Discussion |
-| **19:00 - 19:10** | Still open [Call for Parcitipation](https://vpub.dasharo.com/projects_backlog/)
-| **19:10 - 19:30** | Q&A: TBD |
-| **19:30 - 21:00** | Open Discussion |
-| **21:00 - last <i>haker</i> standing** | Open Discussion:<br>- What fun things we can do with analyze swtpm+QEMU+coreboot, <br>- TrenchBoot - what's up in the project, how LKML patches, D-RTM in QEMU? <br>- Seamless firmware deployment ideas/brainstorming, <br>- Dasharo compatible with MSI Z690 DDR4 [community test results](https://forum.qubes-os.org/t/msi-pro-z690-a-wifi-ddr4-with-alder-lake-12900k/11490). |
+| **18:00 - 18:10** | Still open [Call for Parcitipation](https://vpub.dasharo.com/projects_backlog/) |
+| **18:10 - 18:30** | Q&A: TBD |
+| **18:30 - last <i>haker</i> standing** | Open Discussion:<br>- What fun things we can do with analyze swtpm+QEMU+coreboot, <br>- TrenchBoot - what's up in the project, how LKML patches, D-RTM in QEMU? <br>- Seamless firmware deployment ideas/brainstorming, <br>- Dasharo compatible with MSI Z690 DDR4 [community test results](https://forum.qubes-os.org/t/msi-pro-z690-a-wifi-ddr4-with-alder-lake-12900k/11490). |
 
 </center>
 
