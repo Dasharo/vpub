@@ -59,4 +59,4 @@ or through messages on [Dasharo OSF vPub Matrix channel](https://matrix.to/#/#da
 
 ### Slides
 
-Slides from the event available [here](pdfs/vpub-0x4.pdf).
+Slides from the event are available [here](pdfs/vpub-0x4.pdf).
