@@ -55,8 +55,6 @@ or through messages on [Dasharo OSF vPub Matrix channel](https://matrix.to/#/#da
 * [Free form discussion topics backlog](topics_backlog.md)
 * [Open products advertisement](products_backlog.md)
 
-If you are interested in previous events please visit our [archive](archive.md).
-
 ### Slides
 
 Slides from the event are available [here](pdfs/vpub-0x5.pdf).
