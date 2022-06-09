@@ -5,7 +5,7 @@ hide:
 ---
 
 <p align="center" style="margin-bottom: 0px !important;">
-  <img width="800" src="images/dasharo-osf-vpub-spring-2022-poster.png" alt="Dasharo OSF vPub Spring 2022 poster" align="center">
+  <img width="800" src="../images/vpub-0x5-poster.jpeg" alt="Dasharo OSF vPub Spring 2022 poster" align="center">
   </p>
 <br>
 <h1 align="center" style="margin-top: 0px;">Dasharo OSF vPub Spring 2022</h1>
@@ -56,3 +56,7 @@ or through messages on [Dasharo OSF vPub Matrix channel](https://matrix.to/#/#da
 * [Open products advertisement](products_backlog.md)
 
 If you are interested in previous events please visit our [archive](archive.md).
+
+### Slides
+
+Slides from the event are available [here](pdfs/vpub-0x5.pdf).
