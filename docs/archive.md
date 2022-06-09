@@ -6,6 +6,8 @@ hide:
 
 # Archive
 
+* [vPub 0x5](archive/vpub-0x5.md) - Fifth edition of vPub event, Dasharo OSF
+  vPub Spring 2022
 * [vPub 0x4](archive/vpub-0x4.md) - Fourth edition of vPub event, Dasharo OSF
   vPub Winter 2022
 * [vPub 0x3](archive/vpub-0x3.md) - Third edition of vPub event, Dasharo OSF
