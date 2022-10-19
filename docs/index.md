@@ -4,8 +4,6 @@ hide:
   - toc
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-
 <p align="center" style="margin-bottom: 0px !important;">
   <img width="800" src="../images/hackathon-2022-poster.png" alt="Hackathon 2022 poster" align="center">
   </p>
@@ -18,15 +16,15 @@ extended firmware platform that provides instant and secure booting of
 modern computers and embedded systems. As an open source project, it provides
 auditability and maximum control over the technology.
 
-As an active contributor and promoter of open-source firmware, the 3mdeb Team
-wants to familiarize participants with coreboot. You can also participate in
-providing support for the selected platform (more information in the near
-future).
+Hackathon will be organized in the form of workshop where you will learn how to
+flash coreboot on various hardware platforms using DYI and professional tools.
+Also bring your own laptop. We will analyze your hardware and feasibility of
+coreboot flashing. Don't worry! We can recover it if anything will go wrong.
 
-3mdeb will provide the hardware needed to participate in the event. Bring
-your own hardware as well. If we find that it is already supported in the
-coreboot tree, we will be happy to flash coreboot on your device.
-During the event there will be soft drinks and beer, as well as small snacks.
+As an active contributor and promoter of the open-source Dasharo firmware,
+the 3mdeb Team wants to familiarize attendees with the process of providing
+coreboot support for the selected platform (more information in the near
+future). For this part of the event, 3mdeb will provide the necessary hardware.
 
 ---
 
@@ -52,7 +50,13 @@ Sign up now at:
 Venue
 </h1>
 
-The event will take place at <a href="https://3mdeb.com/contact/" target="_blank">3mdeb's office</a>, accessible at <a href="https://www.openstreetmap.org/way/103471012#map=19/54.39267/18.58042" target="_blank">Abrahama 1a / 2.05, Gdańsk  80-307</a>.
+The event will take place at 3mdeb's office, accessible at
+Abrahama 1a / 2.05, Gdańsk  80-307:
+- [OpenStreetMap](https://www.openstreetmap.org/way/103471012#map=19/54.39267/18.58042)
+- [Google Maps](https://goo.gl/maps/9qvAJWsuvD9ECLNM7)
+
+
+During the event there will be soft drinks and beer, as well as small snacks.
 
 ---
 
@@ -107,6 +111,18 @@ professional setting
 ---
 
 <h1 align="left" style="margin-top: 0px;">
+Health and Safety
+</h1>
+
+As the event host, we take your health and the health of the 3mdeb community
+seriously. This means you have to be vaccinated or recovered, or to be
+boosted or take a same-day negative test before joining the event.
+We are compliant with
+[polish government recommendations](https://www.gov.pl/web/coronavirus/tips).
+
+---
+
+<h1 align="left" style="margin-top: 0px;">
 Hackathon Schedule
 </h1>
 
@@ -127,12 +143,13 @@ marketing purposes.
 Social media
 </h1>
 <h2 align="Left" style="margin-top: 0px;">
-  <a href="https://twitter.com/3mdeb_com" class="fa fa-twitter" target="_blank"></a>
-  <a href="https://twitter.com/3mdeb_com" target="_blank"> 3mdeb </a>
-</h2>
-<h2 align="Left" style="margin-top: 0px;">
-  <a href="https://www.reddit.com/user/3mdeb/" class="fa fa-reddit" target="_blank"></a>
-  <a href="https://www.reddit.com/user/3mdeb/" target="_blank"> 3mdeb </a>
+  <a href="https://twitter.com/3mdeb_com" target="_blank"> Twitter </a>
+ -
+  <a href="https://www.reddit.com/user/3mdeb/" target="_blank"> Reddit </a>
+ -
+  <a href="https://github.com/Dasharo" target="_blank"> Github Dasharo </a>
+ -
+  <a href="https://github.com/3mdeb" target="_blank"> Github 3mdeb </a>
 </h2>
 
 ---
