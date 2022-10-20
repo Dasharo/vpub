@@ -79,34 +79,20 @@ Please register your self at <a href="https://cfp.3mdeb.com/hackathon-2022/submi
 Code of Conduct
 </h1>
 
-In the interest of fostering an open and welcoming environment, we as organizers
-and maintainers pledge to make the event and our community a harassment-free
-experience for everyone, regardless of age, body size, disability, ethnicity,
-gender identity and expression, level of experience, nationality, personal
-appearance, race, religion, sexual identity and orientation, or other
-characteristic.
+Be kind to others. Do not insult or put down others. Behave professionally.
+Remember that harassment and sexist, racist, or exclusionary jokes are not
+appropriate for 3mdeb.
 
+All communication should be appropriate for a professional audience including
+people of many different backgrounds. Sexual language and imagery is not
+appropriate.
 
-Examples of behavior that contributes to creating a positive environment include:
+3mdeb is dedicated to providing a harassment-free community for everyone,
+regardless of gender, sexual orientation, gender identity and expression,
+disability, physical appearance, body size, race, or religion. We do not
+tolerate harassment of community members in any form.
 
-*  Using welcoming and inclusive language
-*  Being respectful of differing viewpoints and experiences
-*  Gracefully accepting constructive criticism
-*  Focusing on what is best for the community
-*  Showing empathy towards other community members
-
-Examples of unacceptable behavior by participants include:
-
-*  The use of sexualized language or imagery and unwelcome sexual attention
-or advances
-*  Trolling, insulting/derogatory comments, and personal or political attacks
-*  Reinforcing stereotypical models for illustration of non-technical users
-(e.g. our mothers/grandmothers, etc.)
-*  Public or private harassment, as defined by the Citizen Code of Conduct
-*  Publishing others’ private information, such as a physical or electronic
-address, without explicit permission
-*  Other conduct which could reasonably be considered inappropriate in a
-professional setting
+Thank you for helping make this a welcoming, friendly community for all.
 
 ---
 
@@ -115,10 +101,10 @@ Health and Safety
 </h1>
 
 As the event host, we take your health and the health of the 3mdeb community
-seriously. This means you have to be vaccinated or recovered, or to be
-boosted or take a same-day negative test before joining the event.
-We are compliant with
+seriously. We make every effort to ensure the health and safety of hackathon participants.
+First and foremost, we follow the recommendations of the
 [polish government recommendations](https://www.gov.pl/web/coronavirus/tips).
+We will provide masks to participants who would like them.
 
 ---
 
