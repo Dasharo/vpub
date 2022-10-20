@@ -61,10 +61,11 @@ Slowly getting interested? Good... Want more? Then come hack with us!
   <b>The goal of the hackathon</b>
 </h3>
 
-As an active contributor and promoter of the open-source Dasharo firmware, the
-3mdeb Team wants to familiarize attendees with the process of providing
-coreboot support for the selected platforms. For this part of the event, 3mdeb
-will provide the necessary hardware and tools.
+As an active contributor, promoter of the open-source firmware and creator of
+Dasharo open-source firmware distribution, the 3mdeb Team wants to familiarize
+hackathon attendees with the process of coreboot initial deployment for the
+selected platforms. For this part of the event, 3mdeb will provide the
+necessary hardware and tools.
 
 ---
 
