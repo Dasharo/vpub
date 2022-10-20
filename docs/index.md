@@ -9,25 +9,24 @@ hide:
   </p>
 <br>
 
-<hr>
-
 <h1 align="center" style="color: #38d430;">
   <b>coreboot flash party is here!</b>
-</h2>
+</h1>
 
+---
 
 <h2 align="left" style="color: #38d430;">
   <b>Heard about open-source firmware and coreboot but did not dare to try?</b>
 </h2>
 
 You couldn't find better place to know more about open-source firmware and
-coreboot and why you should try it.<br><br>
+coreboot and why you should try it.
 
 The very first 3mdeb's public and open hackathon is here with coreboot as its
 main theme. coreboot is an extended firmware platform that provides instant and
 secure booting of modern computers and embedded systems. As an open source
 project, it provides auditability and maximum control over the
-technology.<br><br>
+technology.
 
 But enough talking... Visit the hackathon to see coreboot in action because
 there is no better way of befriending coreboot than real interaction.
@@ -38,10 +37,10 @@ there is no better way of befriending coreboot than real interaction.
 
 Don't worry... Thee hackathon will be organized in the form of workshop where
 you will learn how to flash coreboot on various hardware platforms using DYI
-and professional tools.<br>
+and professional tools.
 
 Also a team of experts will be watching over your hardware safety at any time.
-And if anything goes wrong we will recover it from bricked state.<br><br>
+And if anything goes wrong we will recover it from bricked state.
 
 So do not hesitate and bring your platform with you, we will help analyze your
 hardware and feasibility of coreboot flashing.
@@ -52,7 +51,7 @@ hardware and feasibility of coreboot flashing.
 
 Really? That's great news! But we encourage you to come anyway. With almost
 100% certainty your corebooted machine firmware can become even better and we
-will show you numerous ways how you can improve it.<br><br>
+will show you numerous ways how you can improve it.
 
 Slowly getting interested? Good... Want more? Then come hack with us!
 
@@ -65,7 +64,7 @@ As an active contributor and promoter of the open-source Dasharo firmware, the
 coreboot support for the selected platforms. For this part of the event, 3mdeb
 will provide the necessary hardware and tools.
 
-<hr>
+---
 
 <h2 align="left" style="margin-top: 0px;">
   <b>Calendar Invites:</b>
@@ -77,14 +76,14 @@ will provide the necessary hardware and tools.
   <a href="https://cfp.3mdeb.com/" target="_blank">Hackathon Schedule</a>
 </h2>
 
-<hr>
+---
 
 <h1 align="left" style="margin-top: 0px;">
 Sign up now at:
 <a href="https://cfp.3mdeb.com/hackathon-2022/submit/" target="_blank">https://cfp.3mdeb.com/hackathon-2022/</a>!
 </h1>
 
-<hr>
+---
 
 <h1 align="left" style="margin-top: 0px;">
 Venue
@@ -92,13 +91,14 @@ Venue
 
 The event will take place at 3mdeb's office, accessible at
 Abrahama 1a / 2.05, Gdańsk  80-307:
+
 - [OpenStreetMap](https://www.openstreetmap.org/way/103471012#map=19/54.39267/18.58042)
 - [Google Maps](https://goo.gl/maps/9qvAJWsuvD9ECLNM7)
 
 
 During the event there will be soft drinks and beer, as well as small snacks.
 
-<hr>
+---
 
 <h1 align="left" style="margin-top: 0px;">
 Accessibility
@@ -106,7 +106,7 @@ Accessibility
 
 There is an elevator available to reach the venue. The bathrooms are wheelchair accessible.
 
-<hr>
+---
 
 <h1 align="left" style="margin-top: 0px;">
 Registration form
@@ -114,7 +114,7 @@ Registration form
 
 Please register your self at <a href="https://cfp.3mdeb.com/hackathon-2022/submit/" target="_blank">https://cfp.3mdeb.com/hackathon-2022/</a>
 
-<hr>
+---
 
 <h1 align="left" style="margin-top: 0px;">
 Code of Conduct
@@ -137,7 +137,7 @@ Code of Conduct
 
 Thank you for helping make this a welcoming, friendly community for all.
 
-<hr>
+---
 
 <h1 align="left" style="margin-top: 0px;">
 Health and Safety
@@ -149,7 +149,7 @@ First and foremost, we follow the recommendations of the
 [polish government recommendations](https://www.gov.pl/web/coronavirus/tips).
 We will provide masks to participants who would like them.
 
-<hr>
+---
 
 <h1 align="left" style="margin-top: 0px;">
 Hackathon Schedule
@@ -157,7 +157,7 @@ Hackathon Schedule
 
 The full schedule is available at: <a href="https://cfp.3mdeb.com/hackathon-2022/schedule/" target="_blank">https://cfp.3mdeb.com/hackathon-2022/schedule/</a>
 
-<hr>
+---
 
 <h1 align="left" style="margin-top: 0px;">
 Recording
@@ -167,7 +167,7 @@ The live presentation will be recorded, as well as some of the highlights of
 the event. By joining the event, you consent to the recording of your image for
 marketing purposes.
 
-<hr>
+---
 
 <h1 align="Left" style="margin-top: 0px;">
 Social media
@@ -182,7 +182,7 @@ Social media
   <a href="https://github.com/3mdeb" target="_blank"> Github 3mdeb </a>
 </h2>
 
-<hr>
+---
 
 <h1 align="Left" style="margin-top: 0px;">
 Sponsors
