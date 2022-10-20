@@ -21,12 +21,13 @@ hide:
 </h2>
 
 You couldn't find better place to know more about open-source firmware and
-coreboot and why you should try it.
+coreboot and why you should try it.<br><br>
 
 The very first 3mdeb's public and open hackathon is here with coreboot as its
 main theme. coreboot is an extended firmware platform that provides instant and
 secure booting of modern computers and embedded systems. As an open source
-project, it provides auditability and maximum control over the technology.
+project, it provides auditability and maximum control over the
+technology.<br><br>
 
 But enough talking... Visit the hackathon to see coreboot in action because
 there is no better way of befriending coreboot than real interaction.
@@ -37,10 +38,10 @@ there is no better way of befriending coreboot than real interaction.
 
 Don't worry... Thee hackathon will be organized in the form of workshop where
 you will learn how to flash coreboot on various hardware platforms using DYI
-and professional tools.
+and professional tools.<br>
 
 Also a team of experts will be watching over your hardware safety at any time.
-And if anything goes wrong we will recover it from bricked state.
+And if anything goes wrong we will recover it from bricked state.<br><br>
 
 So do not hesitate and bring your platform with you, we will help analyze your
 hardware and feasibility of coreboot flashing.
@@ -51,7 +52,7 @@ hardware and feasibility of coreboot flashing.
 
 Really? That's great news! But we encourage you to come anyway. With almost
 100% certainty your corebooted machine firmware can become even better and we
-will show you numerous ways how you can improve it.
+will show you numerous ways how you can improve it.<br><br>
 
 Slowly getting interested? Good... Want more? Then come hack with us!
 
