@@ -35,12 +35,13 @@ there is no better way of befriending coreboot than real interaction.
   <b>Have a good oldie to flash but afraid to break something?</b>
 </h2>
 
-Don't worry... Thee hackathon will be organized in the form of workshop where
+Don't worry... The hackathon will be organized in the form of workshop where
 you will learn how to flash coreboot on various hardware platforms using DYI
 and professional tools.
 
 Also a team of experts will be watching over your hardware safety at any time.
-And if anything goes wrong we will recover it from bricked state.
+And if anything goes wrong (it sometimes just happen) we will recover it from
+bricked state.
 
 So do not hesitate and bring your platform with you, we will help analyze your
 hardware and feasibility of coreboot flashing.
@@ -147,7 +148,7 @@ Health and Safety
 As the event host, we take your health and the health of the 3mdeb community
 seriously. We make every effort to ensure the health and safety of hackathon participants.
 First and foremost, we follow the recommendations of the
-[polish government recommendations](https://www.gov.pl/web/coronavirus/tips).
+[Polish government recommendations](https://www.gov.pl/web/coronavirus/tips).
 We will provide masks to participants who would like them.
 
 ---
