@@ -49,9 +49,10 @@ hardware and feasibility of coreboot flashing.
   <b>I already have coreboot on my machine and don't want to waste my time on the hackathon</b>
 </h2>
 
-Really? That's great news! But we encourage you to come anyway. With almost
-100% certainty your corebooted machine firmware can become even better and we
-will show you numerous ways how you can improve it.
+You have coreboot on your machine, really? That's great news! But we encourage
+you to come anyway. With almost 100% certainty your corebooted machine firmware
+can become even better and we will show you numerous ways how you can improve
+it.
 
 Slowly getting interested? Good... Want more? Then come hack with us!
 
