@@ -10,7 +10,7 @@ Main value of vPub always for free-form discussion, because of that we would
 like to keep as long as possible list of potential topics that could be of
 interest for vPub community.
 
-##  [vPub #4 agenda](archive/vpub-0x4.md)
+##  [vPub #4 agenda](../../vpub-0x4)
 
 ### Twitter
 
@@ -55,7 +55,7 @@ We can work on above during OSF vPub and note brainstorming results.
 - [ ] [RPi 4 2U rack-mount bracket](https://www.thingiverse.com/thing:4078710)
 - [ ] [1 inch GB Ethernet](https://www.botblox.io/products/micro-gigabit-ethernet-switch)
 - [ ] Formal methods discussion: TrueDoks(x)
-  - added to [vPub #4 agenda](archive/vpub-0x4.md)
+  - added to [vPub #4 agenda](../../vpub-0x4)
 - [ ] TrenchBoot TPM 1.2 support: how much work it can be? who can sponsor that? Maybe write-up about security of TPM 1.2 and size of deployment?
 - [ ] Xen XTF
 
