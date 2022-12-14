@@ -45,7 +45,7 @@ hide:
 
 </center>
 
-### On-going call for participation
+### Ongoing call for participation
 
 At any time feel free to send us suggestions to following sections in form of
 [pull requests](https://github.com/Dasharo/vpub/pulls)/[issues](https://github.com/Dasharo/vpub/issues)

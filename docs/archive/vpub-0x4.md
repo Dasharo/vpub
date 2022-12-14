@@ -51,7 +51,7 @@ If you don't have Matrix account, here is a quick guide on [how to get started w
 
 </center>
 
-### On-going call for participation
+### Ongoing call for participation
 
 At any time feel free to send us suggestions to following sections in form of
 [pull requests](https://github.com/Dasharo/vpub/pulls)/[issues](https://github.com/Dasharo/vpub/issues)
