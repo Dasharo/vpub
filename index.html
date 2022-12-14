@@ -1,0 +1,634 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://vpub.dasharo.com/">
+      
+      <link rel="icon" href="images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-8.5.10">
+    
+    
+      
+        <title>Dasharo Open Source Firmware vPub (aka 3mdeb vPub)</title>
+      
+    
+    
+      <link rel="stylesheet" href="assets/stylesheets/main.975780f9.min.css">
+      
+        
+        <link rel="stylesheet" href="assets/stylesheets/palette.2505c338.min.css">
+        
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="stylesheets/extra.css">
+    
+    <script>__md_scope=new URL(".",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="None" data-md-color-accent="None">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="." title="Dasharo Open Source Firmware vPub (aka 3mdeb vPub)" class="md-header__button md-logo" aria-label="Dasharo Open Source Firmware vPub (aka 3mdeb vPub)" data-md-component="logo">
+      
+  <img src="images/dasharo-logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dasharo Open Source Firmware vPub (aka 3mdeb vPub)
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Home
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="." title="Dasharo Open Source Firmware vPub (aka 3mdeb vPub)" class="md-nav__button md-logo" aria-label="Dasharo Open Source Firmware vPub (aka 3mdeb vPub)" data-md-component="logo">
+      
+  <img src="images/dasharo-logo.png" alt="logo">
+
+    </a>
+    Dasharo Open Source Firmware vPub (aka 3mdeb vPub)
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+      <a href="." class="md-nav__link md-nav__link--active">
+        Home
+      </a>
+      
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/" class="md-nav__link">
+        Archive
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Archive
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Archive" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Archive
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/vbeer-0x1/" class="md-nav__link">
+        Vbeer 0x1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/vpub-0x2/" class="md-nav__link">
+        Vpub 0x2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/vpub-0x3/" class="md-nav__link">
+        Vpub 0x3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/vpub-0x4/" class="md-nav__link">
+        Vpub 0x4
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/vpub-0x5/" class="md-nav__link">
+        Vpub 0x5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_6" type="checkbox" id="__nav_3_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_6">
+          Vpub 0x5
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Vpub 0x5" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_6">
+          <span class="md-nav__icon md-icon"></span>
+          Vpub 0x5
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/vpub-0x5/products_backlog/" class="md-nav__link">
+        Open products advertisement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/vpub-0x5/projects_backlog/" class="md-nav__link">
+        Project Demo session backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="archive/vpub-0x5/topics_backlog/" class="md-nav__link">
+        Free-form discussion topics backlog
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="800" src="../images/hackathon-2022-poster.png" alt="Hackathon 2022 poster" align="center">
+  </p>
+<p><br></p>
+<h1 align="center" style="color: #38d430;">
+  <b>coreboot flash party is here!</b>
+</h1>
+
+<hr />
+<h2 align="left" style="color: #38d430;">
+  <b>Heard about open-source firmware and coreboot but did not dare to try?</b>
+</h2>
+
+<p>You couldn't find better place to know more about open-source firmware and
+coreboot and why you should try it.</p>
+<p>The very first 3mdeb's public and open hackathon is here with coreboot as its
+main theme. coreboot is an extended firmware platform that provides instant and
+secure booting of modern computers and embedded systems. As an open source
+project, it provides auditability and maximum control over the
+technology.</p>
+<p>But enough talking... Visit the hackathon to see coreboot in action because
+there is no better way of befriending coreboot than real interaction.</p>
+<h2 align="left" style="color: #38d430;">
+  <b>Have a good oldie to flash but afraid to break something?</b>
+</h2>
+
+<p>Don't worry... The hackathon will be organized in the form of workshop where
+you will learn how to flash coreboot on various hardware platforms using DYI
+and professional tools.</p>
+<p>Also a team of experts will be watching over your hardware safety at any time.
+And if anything goes wrong (it sometimes just happen) we will recover it from
+bricked state.</p>
+<p>So do not hesitate and bring your platform with you, we will help analyze your
+hardware and feasibility of coreboot flashing.</p>
+<h2 align="left" style="color: #38d430;">
+  <b>I already have coreboot on my machine and don't want to waste my time on the hackathon</b>
+</h2>
+
+<p>You have coreboot on your machine, really? That's great news! But we encourage
+you to come anyway. With almost 100% certainty your corebooted machine firmware
+can become even better and we will show you numerous ways how you can improve
+it.</p>
+<p>Slowly getting interested? Good... Want more? Then come hack with us!</p>
+<h3 align="left">
+  <b>The goal of the hackathon</b>
+</h3>
+
+<p>As an active contributor, promoter of the open-source firmware and creator of
+Dasharo open-source firmware distribution, the 3mdeb Team wants to familiarize
+hackathon attendees with the process of coreboot initial deployment for the
+selected platforms. For this part of the event, 3mdeb will provide the
+necessary hardware and tools.</p>
+<hr />
+<h2 align="left" style="margin-top: 0px;">
+  <b>Calendar Invites:</b>
+  <a href="#">iCal</a> /
+  <a href="#" target="_blank">Google</a>
+</h2>
+<h2 align="left" style="margin-top: 0px;">
+  <b>Schedule:</b>
+  <a href="https://cfp.3mdeb.com/" target="_blank">Hackathon Schedule</a>
+</h2>
+
+<hr />
+<h1 align="left" style="margin-top: 0px;">
+Sign up now at:
+<a href="https://cfp.3mdeb.com/hackathon-2022/submit/" target="_blank">https://cfp.3mdeb.com/hackathon-2022/</a>!
+</h1>
+
+<hr />
+<h1 align="left" style="margin-top: 0px;">
+Venue
+</h1>
+
+<p>The event will take place at 3mdeb's office, accessible at
+Abrahama 1a / 2.05, Gdańsk  80-307:</p>
+<ul>
+<li><a href="https://www.openstreetmap.org/way/103471012#map=19/54.39267/18.58042">OpenStreetMap</a></li>
+<li><a href="https://goo.gl/maps/9qvAJWsuvD9ECLNM7">Google Maps</a></li>
+</ul>
+<p>During the event there will be soft drinks and beer, as well as small snacks.</p>
+<hr />
+<h1 align="left" style="margin-top: 0px;">
+Accessibility
+</h1>
+
+<p>There is an elevator available to reach the venue. The bathrooms are wheelchair accessible.</p>
+<hr />
+<h1 align="left" style="margin-top: 0px;">
+Registration form
+</h1>
+
+<p>Please register your self at <a href="https://cfp.3mdeb.com/hackathon-2022/submit/" target="_blank">https://cfp.3mdeb.com/hackathon-2022/</a></p>
+<hr />
+<h1 align="left" style="margin-top: 0px;">
+Code of Conduct
+</h1>
+
+<ol>
+  <li>Be kind to others.</li>
+  <li>Do not insult or put down others.</li>
+  <li>Behave professionally.</li>
+  <li>Remember that harassment and sexist, racist, or exclusionary jokes are
+      not appropriate for 3mdeb.</li>
+  <li>All communication should be appropriate for a professional audience
+      including people of many different backgrounds.</li>
+  <li>Sexual language and imagery is not appropriate.</li>
+  <li>3mdeb is dedicated to providing a harassment-free community for everyone,
+      regardless of gender, sexual orientation, gender identity and expression,
+      disability, physical appearance, body size, race, or religion.</li>
+  <li>We do not tolerate harassment of community members in any form.</li>
+</ol>
+
+<p>Thank you for helping make this a welcoming, friendly community for all.</p>
+<hr />
+<h1 align="left" style="margin-top: 0px;">
+Health and Safety
+</h1>
+
+<p>As the event host, we take your health and the health of the 3mdeb community
+seriously. We make every effort to ensure the health and safety of hackathon participants.
+First and foremost, we follow the recommendations of the
+<a href="https://www.gov.pl/web/coronavirus/tips">Polish government recommendations</a>.
+We will provide masks to participants who would like them.</p>
+<hr />
+<h1 align="left" style="margin-top: 0px;">
+Hackathon Schedule
+</h1>
+
+<p>The full schedule is available at: <a href="https://cfp.3mdeb.com/hackathon-2022/schedule/" target="_blank">https://cfp.3mdeb.com/hackathon-2022/schedule/</a></p>
+<hr />
+<h1 align="left" style="margin-top: 0px;">
+Recording
+</h1>
+
+<p>The live presentation will be recorded, as well as some of the highlights of
+the event. By joining the event, you consent to the recording of your image for
+marketing purposes.</p>
+<hr />
+<h1 align="Left" style="margin-top: 0px;">
+Social media
+</h1>
+<h2 align="Left" style="margin-top: 0px;">
+  <a href="https://twitter.com/3mdeb_com" target="_blank"> Twitter </a>
+ -
+  <a href="https://www.reddit.com/user/3mdeb/" target="_blank"> Reddit </a>
+ -
+  <a href="https://github.com/Dasharo" target="_blank"> Github Dasharo </a>
+ -
+  <a href="https://github.com/3mdeb" target="_blank"> Github 3mdeb </a>
+</h2>
+
+<hr />
+<h1 align="Left" style="margin-top: 0px;">
+Sponsors
+
+Want to support the Hackathon 2022?
+  <a href="https://calendly.com/3mdeb/" target="_blank">Let's talk about it!</a>
+
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+      
+        
+        <a href="archive/" class="md-footer__link md-footer__link--next" aria-label="Next: Archive" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Archive
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Sponsored by <a href="https://docs.dasharo.com"><i>Dasharo</i></a>
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    <a href="https://twitter.com/dasharo_com" target="_blank" rel="noopener" title="Dasharo on Twitter" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": ".", "features": [], "search": "assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+      
+    
+    
+  </body>
+</html>

@@ -1,0 +1,668 @@
+
+<!doctype html>
+<html lang="en" class="no-js">
+  <head>
+    
+      <meta charset="utf-8">
+      <meta name="viewport" content="width=device-width,initial-scale=1">
+      
+      
+      
+        <link rel="canonical" href="https://vpub.dasharo.com/archive/vpub-0x4/">
+      
+      <link rel="icon" href="../../images/favicon.png">
+      <meta name="generator" content="mkdocs-1.4.2, mkdocs-material-8.5.10">
+    
+    
+      
+        <title>Vpub 0x4 - Dasharo Open Source Firmware vPub (aka 3mdeb vPub)</title>
+      
+    
+    
+      <link rel="stylesheet" href="../../assets/stylesheets/main.975780f9.min.css">
+      
+        
+        <link rel="stylesheet" href="../../assets/stylesheets/palette.2505c338.min.css">
+        
+      
+      
+
+    
+    
+    
+      
+        
+        
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300i,400,400i,700,700i%7CRoboto+Mono:400,400i,700,700i&display=fallback">
+        <style>:root{--md-text-font:"Roboto";--md-code-font:"Roboto Mono"}</style>
+      
+    
+    
+      <link rel="stylesheet" href="../../stylesheets/extra.css">
+    
+    <script>__md_scope=new URL("../..",location),__md_hash=e=>[...e].reduce((e,_)=>(e<<5)-e+_.charCodeAt(0),0),__md_get=(e,_=localStorage,t=__md_scope)=>JSON.parse(_.getItem(t.pathname+"."+e)),__md_set=(e,_,t=localStorage,a=__md_scope)=>{try{t.setItem(a.pathname+"."+e,JSON.stringify(_))}catch(e){}}</script>
+    
+      
+
+    
+    
+    
+  </head>
+  
+  
+    
+    
+    
+    
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="None" data-md-color-accent="None">
+  
+    
+    
+    <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
+    <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
+    <label class="md-overlay" for="__drawer"></label>
+    <div data-md-component="skip">
+      
+        
+        <a href="#ongoing-call-for-participation" class="md-skip">
+          Skip to content
+        </a>
+      
+    </div>
+    <div data-md-component="announce">
+      
+    </div>
+    
+    
+      
+
+<header class="md-header" data-md-component="header">
+  <nav class="md-header__inner md-grid" aria-label="Header">
+    <a href="../.." title="Dasharo Open Source Firmware vPub (aka 3mdeb vPub)" class="md-header__button md-logo" aria-label="Dasharo Open Source Firmware vPub (aka 3mdeb vPub)" data-md-component="logo">
+      
+  <img src="../../images/dasharo-logo.png" alt="logo">
+
+    </a>
+    <label class="md-header__button md-icon" for="__drawer">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M3 6h18v2H3V6m0 5h18v2H3v-2m0 5h18v2H3v-2Z"/></svg>
+    </label>
+    <div class="md-header__title" data-md-component="header-title">
+      <div class="md-header__ellipsis">
+        <div class="md-header__topic">
+          <span class="md-ellipsis">
+            Dasharo Open Source Firmware vPub (aka 3mdeb vPub)
+          </span>
+        </div>
+        <div class="md-header__topic" data-md-component="header-topic">
+          <span class="md-ellipsis">
+            
+              Vpub 0x4
+            
+          </span>
+        </div>
+      </div>
+    </div>
+    
+    
+    
+    
+  </nav>
+  
+</header>
+    
+    <div class="md-container" data-md-component="container">
+      
+      
+        
+          
+        
+      
+      <main class="md-main" data-md-component="main">
+        <div class="md-main__inner md-grid">
+          
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--primary" data-md-component="sidebar" data-md-type="navigation" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+
+<nav class="md-nav md-nav--primary" aria-label="Navigation" data-md-level="0">
+  <label class="md-nav__title" for="__drawer">
+    <a href="../.." title="Dasharo Open Source Firmware vPub (aka 3mdeb vPub)" class="md-nav__button md-logo" aria-label="Dasharo Open Source Firmware vPub (aka 3mdeb vPub)" data-md-component="logo">
+      
+  <img src="../../images/dasharo-logo.png" alt="logo">
+
+    </a>
+    Dasharo Open Source Firmware vPub (aka 3mdeb vPub)
+  </label>
+  
+  <ul class="md-nav__list" data-md-scrollfix>
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../.." class="md-nav__link">
+        Home
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../" class="md-nav__link">
+        Archive
+      </a>
+    </li>
+  
+
+    
+      
+      
+      
+
+  
+  
+    
+  
+  
+    
+    <li class="md-nav__item md-nav__item--active md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3" type="checkbox" id="__nav_3" checked>
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3">
+          Archive
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Archive" data-md-level="1">
+        <label class="md-nav__title" for="__nav_3">
+          <span class="md-nav__icon md-icon"></span>
+          Archive
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vbeer-0x1/" class="md-nav__link">
+        Vbeer 0x1
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vpub-0x2/" class="md-nav__link">
+        Vpub 0x2
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vpub-0x3/" class="md-nav__link">
+        Vpub 0x3
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+    
+  
+  
+    <li class="md-nav__item md-nav__item--active">
+      
+      <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
+      
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Vpub 0x4
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <a href="./" class="md-nav__link md-nav__link--active">
+        Vpub 0x4
+      </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ongoing-call-for-participation" class="md-nav__link">
+    Ongoing call for participation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#slides" class="md-nav__link">
+    Slides
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+      
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vpub-0x5/" class="md-nav__link">
+        Vpub 0x5
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    
+    <li class="md-nav__item md-nav__item--nested">
+      
+      
+        <input class="md-nav__toggle md-toggle" data-md-toggle="__nav_3_6" type="checkbox" id="__nav_3_6" >
+      
+      
+      
+      
+        <label class="md-nav__link" for="__nav_3_6">
+          Vpub 0x5
+          <span class="md-nav__icon md-icon"></span>
+        </label>
+      
+      <nav class="md-nav" aria-label="Vpub 0x5" data-md-level="2">
+        <label class="md-nav__title" for="__nav_3_6">
+          <span class="md-nav__icon md-icon"></span>
+          Vpub 0x5
+        </label>
+        <ul class="md-nav__list" data-md-scrollfix>
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vpub-0x5/products_backlog/" class="md-nav__link">
+        Open products advertisement
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vpub-0x5/projects_backlog/" class="md-nav__link">
+        Project Demo session backlog
+      </a>
+    </li>
+  
+
+            
+          
+            
+              
+  
+  
+  
+    <li class="md-nav__item">
+      <a href="../vpub-0x5/topics_backlog/" class="md-nav__link">
+        Free-form discussion topics backlog
+      </a>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+            
+          
+        </ul>
+      </nav>
+    </li>
+  
+
+    
+  </ul>
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+            
+              
+                
+              
+              <div class="md-sidebar md-sidebar--secondary" data-md-component="sidebar" data-md-type="toc" hidden>
+                <div class="md-sidebar__scrollwrap">
+                  <div class="md-sidebar__inner">
+                    
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#ongoing-call-for-participation" class="md-nav__link">
+    Ongoing call for participation
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#slides" class="md-nav__link">
+    Slides
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
+                  </div>
+                </div>
+              </div>
+            
+          
+          
+            <div class="md-content" data-md-component="content">
+              <article class="md-content__inner md-typeset">
+                
+                  
+
+
+<p align="center" style="margin-bottom: 0px !important;">
+  <img width="800" src="../images/vpub-0x4-poster.jpeg" alt="Dasharo OSF vPub Winter 2022 poster" align="center">
+  </p>
+<p><br></p>
+<h1 align="center" style="margin-top: 0px;">Dasharo OSF vPub Winter 2022</h1>
+<h2 align="center" style="margin-top: 0px;">17 February 2022</h2>
+<h2 align="center" style="margin-top: 0px;">8 PM UTC - last <i>haker</i> standing</h2>
+<h3 align="center" style="margin-top: 0px;">Calendar Invites: <a href="https://cloud.3mdeb.com/index.php/s/bxWPFbg5PzkDeP2">iCal</a> / <a href="https://calendar.google.com/event?action=TEMPLATE&tmeid=MjZobm9ydXJuNzQ4OHM3bWszN3I1b2dwbjQgZXZlbnRzQDNtZGViLmNvbQ&tmsrc=events%403mdeb.com">Google</a></h3>
+<p><br></p>
+<ul>
+<li><a href="https://matrix.to/#/#dasharo-osf-vpub:matrix.org">Dasharo OSF vPub Matrix room</a> in <a href="https://matrix.to/#/#dasharo:matrix.org">Dasharo Workspace (Matrix)</a> with embedded Jitsi conference using <a href="https://element.io/get-started">Element</a>.<br>
+Following configuration similar to virtual FOSDEM, we added integration of Jitsi to our Dasharo OSF vPub Matrix channel.<br>
+If you don't have Matrix account, here is a quick guide on <a href="https://frontpagelinux.com/tutorials/beginners-guide-how-to-get-started-with-element-matrix/">how to get started with Element &amp; Matrix</a> or feel free to use Jitsi directly (link below).</li>
+<li><a href="https://meet.jit.si/dasharo-osf-vpub">Jitsi Conference Link</a> - please click to join Jitsi audio (optional video) conference via web browser or mobile app</li>
+<li><a href="https://matrix.to/#/#dasharo:matrix.org">Dasharo Workspace (Matrix)</a> - join <code>#dasharo-osf-vpub:matrix.org</code> optional Matrix channel for text chat</li>
+<li><a href="https://newsletter.3mdeb.com/subscription/0_K65I7ro">Dasharo OSF vPub Newsletter</a> - if you would like to be informed about future vPub events feel free to sign up to our newsletter</li>
+</ul>
+<p><br></p>
+<h2 align="center" style="margin-top: 0px;">4th edition of vPub is approaching! We will be discussing lots of interesting topics with many great guests!</h2>
+
+<h3 align="center" style="margin-top: 0px;">vPub schedule</h3>
+
+<p><center></p>
+<table>
+<thead>
+<tr>
+<th>Time [UTC]</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><strong>19:30 - 19:50</strong></td>
+<td>Channel open for testing</td>
+</tr>
+<tr>
+<td><strong>19:50 - 20:00</strong></td>
+<td>Welcome to vPub</td>
+</tr>
+<tr>
+<td><strong>20:00 - 20:10</strong></td>
+<td><a href="https://twitter.com/twelho">Dennis Marttinen</a> will introduce us to <a href="https://racklet.io/">Racklet</a> project.</td>
+</tr>
+<tr>
+<td><strong>20:10 - 20:30</strong></td>
+<td>Q&amp;A: Racklet</td>
+</tr>
+<tr>
+<td><strong>20:30 - 21:00</strong></td>
+<td>Open Discussion</td>
+</tr>
+<tr>
+<td><strong>21:00 - 21:10</strong></td>
+<td><a href="https://nlnet.nl/people/leenaars.html">Michiel Leenaars</a> will give us short introduction to <a href="https://technologycommons.org/">Technology Commons Trust</a> as a vehicle for open source firmware and hardware crowdfunding.</td>
+</tr>
+<tr>
+<td><strong>21:10 - 21:30</strong></td>
+<td>Q&amp;A: Open source firmware and hardware crowdfunding</td>
+</tr>
+<tr>
+<td><strong>21:30 - 22:00</strong></td>
+<td>Open Discussion</td>
+</tr>
+<tr>
+<td><strong>22:00 - 22:10</strong></td>
+<td><a href="http://twitter.com/lkcl">Luke Kenneth Casson Leighton</a> will dive into comparative debugging for <a href="https://libre-soc.org/">libre-soc</a> by deliberately tracking <a href="https://github.com/antonblanchard/microwatt">microwatt</a> source and unit tests.</td>
+</tr>
+<tr>
+<td><strong>22:10 - 22:30</strong></td>
+<td>Q&amp;A: LibreSoC and Microwatt</td>
+</tr>
+<tr>
+<td><strong>22:30 - 23:00</strong></td>
+<td>Open Discussion</td>
+</tr>
+<tr>
+<td><strong>23:00 - 23:10</strong></td>
+<td><a href="https://twitter.com/OrangeCMS">Daniel Maslowski</a> will let us know about current status of <a href="https://github.com/oreboot/oreboot">oreboot</a> project.</td>
+</tr>
+<tr>
+<td><strong>23:10 - 23:30</strong></td>
+<td>Q&amp;A: oreboot</td>
+</tr>
+<tr>
+<td><strong>23:30 - 00:00</strong></td>
+<td>Open Discussion</td>
+</tr>
+<tr>
+<td><strong>00:00 - 01:00</strong></td>
+<td>Discussion with Richard Stallman about <a href="https://ryf.fsf.org/">Respect Your Freedom Certification</a></td>
+</tr>
+<tr>
+<td><strong>01:00 - 01:10</strong></td>
+<td><a href="https://twitter.com/felixsinger1">Felix Singer</a> and <a href="https://github.com/Tonux599">tonux</a> will explain how open source firmware community can benefit from <a href="https://mail.coreboot.org/hyperkitty/list/coreboot@coreboot.org/thread/PGKTAPC3UEPG722JBUBZYIQQ2UZSGRNA/">GSoC 2022</a>.</td>
+</tr>
+<tr>
+<td><strong>01:10 - 01:30</strong></td>
+<td>Q&amp;A: GSoC 2022 for open source firmware</td>
+</tr>
+<tr>
+<td><strong>01:30 - last <i>haker</i> standing</strong></td>
+<td>Open Discussion:<br>- Crowdfunding of open source firmware distribution for modern platforms , <br>- Public review of the open letter draft to open the Intel ACMs code , <br>- Open source firmware distribution through fwupd/LVFS , <br>- <a href="https://dasharo.com/">Dasharo</a> project statuses: <a href="https://docs.dasharo.com/variants/asus_kgpe_d16/releases/">KGPE-D16</a> , <a href="https://docs.dasharo.com/variants/talos_2/releases/">OpenPOWER</a> , <a href="https://docs.dasharo.com/variants/dell_optiplex/overview/">Dell OptiPlex</a> , <a href="https://pcengines.github.io">PC Engines apu2</a> , modern laptops support <a href="https://configurelaptop.eu/coreboot-laptop/">NovaCustom</a>,<br>- <a href="https://ost2.fyi/">OpenSecurityTraining2</a> reward system plans and ideas,<br>- Recent advancements in Root of Trust technologies (MS Pluton announcements, TrenchBoot project status)</td>
+</tr>
+</tbody>
+</table>
+<p></center></p>
+<h3 id="ongoing-call-for-participation">Ongoing call for participation</h3>
+<p>At any time feel free to send us suggestions to following sections in form of
+<a href="https://github.com/Dasharo/vpub/pulls">pull requests</a>/<a href="https://github.com/Dasharo/vpub/issues">issues</a>
+or through messages on <a href="https://matrix.to/#/#dasharo-osf-vpub:matrix.org">Dasharo OSF vPub Matrix channel</a>.</p>
+<h3 id="slides">Slides</h3>
+<p>Slides from the event are available <a href="../pdfs/vpub-0x4.pdf">here</a>.</p>
+
+
+
+  
+
+
+
+                
+              </article>
+            </div>
+          
+          
+        </div>
+        
+      </main>
+      
+        <footer class="md-footer">
+  
+    
+      
+    
+    <nav class="md-footer__inner md-grid" aria-label="Footer" >
+      
+        
+        <a href="../vpub-0x3/" class="md-footer__link md-footer__link--prev" aria-label="Previous: Vpub 0x3" rel="prev">
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
+          </div>
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Previous
+              </span>
+              Vpub 0x3
+            </div>
+          </div>
+        </a>
+      
+      
+        
+        <a href="../vpub-0x5/" class="md-footer__link md-footer__link--next" aria-label="Next: Vpub 0x5" rel="next">
+          <div class="md-footer__title">
+            <div class="md-ellipsis">
+              <span class="md-footer__direction">
+                Next
+              </span>
+              Vpub 0x5
+            </div>
+          </div>
+          <div class="md-footer__button md-icon">
+            <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M4 11v2h12l-5.5 5.5 1.42 1.42L19.84 12l-7.92-7.92L10.5 5.5 16 11H4Z"/></svg>
+          </div>
+        </a>
+      
+    </nav>
+  
+  <div class="md-footer-meta md-typeset">
+    <div class="md-footer-meta__inner md-grid">
+      <div class="md-copyright">
+  
+    <div class="md-copyright__highlight">
+      Sponsored by <a href="https://docs.dasharo.com"><i>Dasharo</i></a>
+    </div>
+  
+  
+    Made with
+    <a href="https://squidfunk.github.io/mkdocs-material/" target="_blank" rel="noopener">
+      Material for MkDocs
+    </a>
+  
+</div>
+      
+        <div class="md-social">
+  
+    
+    
+    <a href="https://twitter.com/dasharo_com" target="_blank" rel="noopener" title="Dasharo on Twitter" class="md-social__link">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"><!--! Font Awesome Free 6.2.1 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license/free (Icons: CC BY 4.0, Fonts: SIL OFL 1.1, Code: MIT License) Copyright 2022 Fonticons, Inc.--><path d="M459.37 151.716c.325 4.548.325 9.097.325 13.645 0 138.72-105.583 298.558-298.558 298.558-59.452 0-114.68-17.219-161.137-47.106 8.447.974 16.568 1.299 25.34 1.299 49.055 0 94.213-16.568 130.274-44.832-46.132-.975-84.792-31.188-98.112-72.772 6.498.974 12.995 1.624 19.818 1.624 9.421 0 18.843-1.3 27.614-3.573-48.081-9.747-84.143-51.98-84.143-102.985v-1.299c13.969 7.797 30.214 12.67 47.431 13.319-28.264-18.843-46.781-51.005-46.781-87.391 0-19.492 5.197-37.36 14.294-52.954 51.655 63.675 129.3 105.258 216.365 109.807-1.624-7.797-2.599-15.918-2.599-24.04 0-57.828 46.782-104.934 104.934-104.934 30.213 0 57.502 12.67 76.67 33.137 23.715-4.548 46.456-13.32 66.599-25.34-7.798 24.366-24.366 44.833-46.132 57.827 21.117-2.273 41.584-8.122 60.426-16.243-14.292 20.791-32.161 39.308-52.628 54.253z"/></svg>
+    </a>
+  
+</div>
+      
+    </div>
+  </div>
+</footer>
+      
+    </div>
+    <div class="md-dialog" data-md-component="dialog">
+      <div class="md-dialog__inner md-typeset"></div>
+    </div>
+    
+    <script id="__config" type="application/json">{"base": "../..", "features": [], "search": "../../assets/javascripts/workers/search.16e2a7d4.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    
+    
+      <script src="../../assets/javascripts/bundle.5a2dcb6a.min.js"></script>
+      
+    
+    
+  </body>
+</html>
